@@ -1,0 +1,20 @@
+{
+  "name": "project-quack-basketballvisualperformancedetector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weijiePan/Project-Quack-BasketballVisualPerformanceDetector.git"
+  },
+  "keywords": [],
+  "author": "weijie pan <aweijiepan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weijiePan/Project-Quack-BasketballVisualPerformanceDetector/issues"
+  },
+  "homepage": "https://github.com/weijiePan/Project-Quack-BasketballVisualPerformanceDetector#readme",
+  "description": ""
+}
