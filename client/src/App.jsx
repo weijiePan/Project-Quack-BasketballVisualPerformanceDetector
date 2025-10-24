@@ -17,17 +17,13 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
+      <form action="http://localhost:3000/video/upload" method="POST" enctype="multipart/form-data">
+        <input type='file' name="name"></input>
+        <button type="submit">click</button>
+      </form>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
-      </p>
+      </p>  
     </>
   )
 }

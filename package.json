@@ -16,5 +16,8 @@
     "url": "https://github.com/weijiePan/Project-Quack-BasketballVisualPerformanceDetector/issues"
   },
   "homepage": "https://github.com/weijiePan/Project-Quack-BasketballVisualPerformanceDetector#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "multer": "^2.0.2"
+  }
 }
