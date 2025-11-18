@@ -3,7 +3,7 @@ import "./NavBar.css"
 export default function Navbar(){
     return(
     <nav class="sticky top-0 h-20" >
-        <ul class="flex justify-evenly font-sans h-40">
+        <ul class="flex justify-evenly font-sans h-20">
             <li>
                 <a class="inline-block">Home</a>
             </li>
