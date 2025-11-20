@@ -1,3 +1,11 @@
-ul{
+@keyframes slideInLeft{
+    from{margin-left: -200px;}
+    to{margin-left:0px;}
+}
+nav{
     background-color: rgba(198, 194, 194, 0.211);
+}
+ul{
+    animation-name: slideInLeft;
+    animation-duration: 0.5s;
 }
